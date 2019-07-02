@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/BGM~1.wav</file>
+    </qresource>
+</RCC>
